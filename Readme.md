@@ -28,7 +28,7 @@ This project shows you how to use the TMX Lite library with the game engine.
 
 If all goes well you will have a **Tile Screen** on your **Android emulator**.
 
-![Image](https://github.com/Is-Daouda/is-Engine-TMXLite/blob/2.2.x/images/demo_screen.png)
+![Image](./images/demo_screen.png)
 
 **Enjoy!**
 
