@@ -26,12 +26,6 @@ This project shows you how to use the TMX Lite library with the game engine.
 6. Move the **is-Engine-TMXLite** project to your **C:/ (C:/is-Engine-TMXLite)**.
 7. Open the **is-Engine-TMXLite** folder with **Android Studio** and start the compilation.
 
-If all goes well you will have a **Tile Screen** on your **Android emulator**.
-
-![Image](./images/demo_screen.png)
-
-**Enjoy!**
-
 **3. Adding Source Files**
 So that Android Studio can detect your source files (.cpp) and compile them you must include them in the **CMakeLists.txt** file which is in **is-Engine-TMXLite/app**.
 
